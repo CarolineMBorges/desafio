@@ -1,0 +1,22 @@
+
+.titulo {
+    width: 100%;
+    font-size: 20px;
+}
+
+
+.estruturaHome {
+   font-size: 25px !important;
+   grid: auto auto auto;
+}
+
+
+.textoLink{
+    font-size: 20px !important;
+    color: #ffffff;
+    text-align: center;
+}
+
+.textoLink:hover { 
+    color: rgb(255, 127,0);
+  }

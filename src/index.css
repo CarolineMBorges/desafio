@@ -5,9 +5,25 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:rgb(29, 31, 138);
+  color: #ffffff;
+  text-align: center;
+  padding-top: 180px;
+  height:100%;
+  width: 100%;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.botao{
+  background-color:rgb(255, 127,0);
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.texto-info{
+  font-size: 13px;
 }

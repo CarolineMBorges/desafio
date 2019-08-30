@@ -1,0 +1,15 @@
+
+.titulo {
+    width: 100%;
+    font-size: 20px;
+}
+
+
+.estrutura {
+   grid: auto auto auto;
+}
+
+.infoLogin {
+    font-size: 16px !important;
+    text-align: center;
+}
